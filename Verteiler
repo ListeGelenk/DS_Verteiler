@@ -1,6 +1,8 @@
 var playerNames = "ListeGelenk, Muten Roshi, NineTailedMonkey, Plutos, buduk1987";
 
-var lines = [
+// x1, y1, x2, y2, map, color, px, mini, minicolor, minipx
+// 515, 554, 484, 554, true, "red", 5, true, "red", 3
+let linien = [
     [ 519, 470, 519, 484, true, "red", 5, true, "red", 3 ],  // Westgrenze
     [ 519, 484, 515, 484, true, "red", 5, true, "red", 3 ],  // Westgrenze
     [ 515, 484, 510, 499, true, "red", 5, true, "red", 3 ],  // Westgrenze
@@ -9,5 +11,34 @@ var lines = [
     [ 513, 505, 555, 505, true, "red", 5, true, "red", 3 ], // Südgrenze
     [ 555, 505, 555, 500, true, "red", 5, true, "red", 3 ], // Südgrenze
     [ 555, 500, 620, 500, true, "red", 5, true, "red", 3 ], // Südgrenze
-    ]
+];
+
+// text, x, y, map, font, color, mini, minifont, minicolor
+// "Argenzo", 471, 532, true, "20px Arial", "white", false, "12px Arial", "white"
+let texte = [
+//    ["Argenzo", 471, 532, true, "20px Arial", "white", false, "12px Arial", "white"],
+//    ["Bla", 471, 532, true, "20px Arial", "white", false, "12px Arial", "white"]
+];
+
+// x, y, radius, map, color, width, filling, mini, minicolor, miniwidth, minifilling, mark
+// 461, 548, 3, true, "white", 3, "rgba(255, 255, 255, 0.5)", true, "white", 3, "rgba(255, 255, 255, 0.5)", true
+let kreise = [
+//    [461, 548, 3, true, "white", 3, "rgba(255, 255, 255, 0.5)", true, "white", 3, "rgba(255, 255, 255, 0.5)", true],
+//    [461, 548, 3, true, "white", 3, "rgba(255, 255, 255, 0.5)", true, "white", 3, "rgba(255, 255, 255, 0.5)", true]
+];
+
+// x, y, imgsrc, map, size, mini, minisize
+// 461, 548, "https://cdn-icons-png.flaticon.com/512/9769/9769356.png", true, 50, true, 3
+let icons = [
+//    [461, 548, "https://cdn-icons-png.flaticon.com/512/9769/9769356.png", true, 50, true, 3],
+//    [461, 548, "https://cdn-icons-png.flaticon.com/512/9769/9769356.png", true, 50, true, 3]
+];
+
+// x1, y1, x2, y2, x3, y3, x4, y4, map, color, width, filling, mini, minicolor, miniwidth, minifilling
+// Koordinaten im Uhrzeigersinn
+// 461, 548, 468, 548, 465, 556, 470, 560, true, "white", 5, "rgba(255, 255, 255, 0.5)", true, "white", 2, "rgba(255, 255, 255, 0.5)"
+let polygone = [
+//    [461, 548, 468, 548, 465, 556, 470, 560, true, "white", 5, "rgba(255, 255, 255, 0.5)", true, "white", 2, "rgba(255, 255, 255, 0.5)"],
+//    [461, 548, 468, 548, 465, 556, 470, 560, true, "white", 5, "rgba(255, 255, 255, 0.5)", true, "white", 2, "rgba(255, 255, 255, 0.5)"]
+];
     
