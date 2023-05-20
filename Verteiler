@@ -1,1 +1,13 @@
 var playerNames = "ListeGelenk, Muten Roshi, NineTailedMonkey, Plutos, buduk1987";
+
+var lines = [
+    [ 519, 470, 519, 484, true, "red", 5, true, "red", 3 ],  // Westgrenze
+    [ 519, 484, 515, 484, true,"red", 5, true, "red", 3 ],  // Westgrenze
+    [ 515, 484, 510, 499, true,"red", 5, true, "red", 3 ],  // Westgrenze
+    [ 510, 499, 513, 505, true,"red", 5, true, "red", 3 ],  // Westgrenze
+    [ 513, 505, 513, 524, true,"red", 5, true, "red", 3 ],  // Westgrenze
+    [ 513, 505, 555, 505, true, "red", 5, true, "red", 3 ], // Südgrenze
+    [ 555, 505, 555, 500, true,"red", 5, true, "red", 3 ], // Südgrenze
+    [ 555, 500, 620, 500, true,"red", 5, true, "red", 3 ], // Südgrenze
+    ]
+    
