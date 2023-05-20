@@ -11,6 +11,7 @@ let linien = [
     [ 513, 505, 555, 505, true, "red", 5, true, "red", 3 ], // Südgrenze
     [ 555, 505, 555, 500, true, "red", 5, true, "red", 3 ], // Südgrenze
     [ 555, 500, 620, 500, true, "red", 5, true, "red", 3 ], // Südgrenze
+    [522, 491, 555, 450, true, "black", 5, true, "black", 3], // TEST
 ];
 
 // text, x, y, map, font, color, mini, minifont, minicolor
