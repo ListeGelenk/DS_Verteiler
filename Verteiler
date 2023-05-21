@@ -1,4 +1,4 @@
-var playerNames = "Herrenloses Damenfahrrad; ladykiller140; iiBeaTz; Broccoli; Darkdimi; bensuper; Kuschelsupport; 19malibu92; MrBizeps; -P4L-; CommanderBar3is; Ice Bear; Radu1991; Lord Steinbruch; Hup Holland Hup; BerlinBeats; vaiolyn; Plutos; Muten Roshi; WerIstDieserGringo?; Frank von Bach; SeoTaiji; Alphak3vin; No Game No Life; Pfanner; Hakuna-Matata; Mr. SmartGuy; Saruman der Weiße; Terrortoaster; iPancak3; MOH1; .Apollos.; Pnut; buduk1987; Ein Basher";
+var playerNames = "Herrenloses Damenfahrrad; ladykiller140; iiBeaTz; Broccoli; Darkdimi; bensuper; Kuschelsupport; 19malibu92; MrBizeps; -P4L-; CommanderBar3is; Ice Bear; Radu1991; Lord Steinbruch; Hup Holland Hup; BerlinBeats; vaiolyn; Plutos; Muten Roshi; WerIstDieserGringo?; Frank von Bach; SeoTaiji; Seitz; Hollywood Undead; Ash Ketchup; Chelonoidis; NineTailedMonkey; Alphak3vin; No Game No Life; Pfanner; Hakuna-Matata; Mr. SmartGuy; Saruman der Weiße; Terrortoaster; iPancak3; MOH1; .Apollos.; Pnut; buduk1987; Ein Basher";
 
 // x1, y1, x2, y2, map, color, px, mini, minicolor, minipx
 // 515, 554, 484, 554, true, "red", 5, true, "red", 3
