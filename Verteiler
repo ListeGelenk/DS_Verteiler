@@ -3,14 +3,40 @@ var playerNames = "Herrenloses Damenfahrrad; ladykiller140; iiBeaTz; Broccoli; D
 // x1, y1, x2, y2, map, color, px, mini, minicolor, minipx
 // 515, 554, 484, 554, true, "red", 5, true, "red", 3
 let linien = [
-    [ 519, 470, 519, 484, true, "red", 5, true, "red", 3 ],  // Westgrenze
-    [ 519, 484, 515, 484, true, "red", 5, true, "red", 3 ],  // Westgrenze
-    [ 515, 484, 510, 499, true, "red", 5, true, "red", 3 ],  // Westgrenze
-    [ 510, 499, 513, 505, true, "red", 5, true, "red", 3 ],  // Westgrenze
-    [ 513, 505, 513, 524, true, "red", 5, true, "red", 3 ],  // Westgrenze
-    [ 513, 505, 555, 505, true, "red", 5, true, "red", 3 ], // Südgrenze
-    [ 555, 505, 555, 500, true, "red", 5, true, "red", 3 ], // Südgrenze
-    [ 555, 500, 620, 500, true, "red", 5, true, "red", 3 ], // Südgrenze
+    [514.9000000000029, 484.7999999999954, 519.600000000003, 484.7999999999954, true, "white", 5, true, "white", 3],
+[509.900000000003, 499.99999999999545, 514.800000000003, 484.99999999999545, true, "white", 5, true, "white", 3],
+[509.9904761904796, 500.1666666666657, 513.8952380952416, 504.8333333333324, true, "white", 5, true, "white", 3],
+[513.9940343528259, 505.0510362688826, 524.6782448791417, 505.10366784783, true, "white", 5, true, "white", 3],
+[524.9414027738786, 505.10366784783, 524.9414027738786, 511.9984046899353, true, "white", 5, true, "white", 3],
+[524.9862263713302, 512.1056921393274, 618.6290835141873, 511.9628349964703, true, "white", 5, true, "white", 3],
+[540.0299740484135, 430.0481519872686, 519.7992048176443, 484.5866135257302, true, "white", 5, true, "white", 3],
+[525.346153846154, 508.08974358974154, 615.5769230769233, 508.08974358974154, true, "white", 5, true, "white", 3],
+[535.8846153846156, 508.16666666666464, 535.8846153846156, 511.7820512820492, true, "white", 5, true, "white", 3],
+[547.0384615384618, 508.24358974358773, 547.0384615384618, 511.7051282051262, true, "white", 5, true, "white", 3],
+[558.0384615384618, 508.39743589743387, 558.0384615384618, 511.7051282051262, true, "white", 5, true, "white", 3],
+[568.9615384615387, 508.32051282051077, 568.9615384615387, 511.6282051282031, true, "white", 5, true, "white", 3],
+[580.0384615384618, 508.39743589743387, 580.0384615384618, 511.55128205128005, true, "white", 5, true, "white", 3],
+[590.8846153846156, 508.32051282051077, 590.8846153846156, 511.55128205128005, true, "white", 5, true, "white", 3],
+[549.9494505494195, 472.02958152957365, 585.3938949938639, 430.2518037517959, true, "white", 5, true, "white", 3],
+[546.9494505494195, 468.14069264068473, 566.2827838827527, 430.36291486290696, true, "white", 5, true, "white", 3],
+[519.7272283271972, 484.91847041846256, 524.8383394383084, 484.91847041846256, true, "white", 5, true, "white", 3],
+[540.0605616605305, 429.91847041846256, 544.3938949938639, 429.91847041846256, true, "white", 5, true, "white", 3],
+[544.505006104975, 430.02958152957365, 524.505006104975, 484.69624819624033, true, "white", 5, true, "white", 3],
+[523.9494505494195, 474.8073593073514, 527.7272283271973, 474.8073593073514, true, "white", 5, true, "white", 3],
+[527.3938949938639, 464.91847041846256, 531.3938949938639, 464.91847041846256, true, "white", 5, true, "white", 3],
+[530.9494505494195, 454.69624819624033, 534.9494505494195, 454.69624819624033, true, "white", 5, true, "white", 3],
+[534.7272283271973, 444.8073593073514, 538.7272283271973, 444.8073593073514, true, "white", 5, true, "white", 3],
+[538.3938949938639, 435.02958152957365, 542.3938949938639, 435.02958152957365, true, "white", 5, true, "white", 3],
+[542.2827838827527, 462.69624819624033, 553.8383394383084, 430.36291486290696, true, "white", 5, true, "white", 3],
+[548.7272283271973, 481.02958152957365, 598.2827838827527, 430.36291486290696, true, "white", 5, true, "white", 3],
+[602.0726423902984, 508.1942343604118, 602.0726423902984, 511.59423436041186, true, "white", 5, true, "white", 3],
+[554.6615312791872, 487.08312324930074, 614.7726423902984, 442.1942343604118, true, "white", 5, true, "white", 3],
+[557.7726423902984, 489.8609010270785, 614.6615312791873, 455.08312324930074, true, "white", 5, true, "white", 3],
+[559.7726423902984, 493.41645658263405, 614.5504201680761, 465.5275676937452, true, "white", 5, true, "white", 3],
+[560.1059757236317, 496.5275676937452, 614.7726423902984, 476.6386788048563, true, "white", 5, true, "white", 3],
+[560.1059757236317, 499.7497899159674, 614.5504201680761, 486.1942343604118, true, "white", 5, true, "white", 3],
+[559.9948646125206, 503.41645658263405, 614.5504201680761, 498.30534547152297, true, "white", 5, true, "white", 3],
+[550.6512523768018, 485.0392411080506, 614.6512523768018, 432.3392411080506, true, "white", 5, true, "white", 3]
 ];
 
 // text, x, y, map, font, color, mini, minifont, minicolor
@@ -18,6 +44,42 @@ let linien = [
 let texte = [
 //    ["Argenzo", 471, 532, true, "20px Arial", "white", false, "12px Arial", "white"],
 //    ["Bla", 471, 532, true, "20px Arial", "white", false, "12px Arial", "white"]
+
+["Kuschelsupport +", 540, 457, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Commander Bar3is", 540, 458.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+
+    ["Damenfahrrad +", 548, 459, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["ladykiller", 548, 460.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+
+    ["Gringo +", 554, 462, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Hakuna", 554, 463.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+
+    ["iiBeatz +", 558, 466, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Seitz", 558, 467.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+
+    ["SeoTajii +", 557, 476.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["-P4L-", 557, 478, true, "40px Arial", "white", false, "12px Arial", "black"],
+
+    ["Chelonoidis +", 558, 482, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Ice Bear", 558, 483.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+
+    ["bensuper +", 561, 485, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Muten Roshi", 561, 486.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+
+    ["Broccoli +", 563, 489, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["DarkDimi", 563, 490.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+
+    ["ListeGelenk +", 566, 492.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Pfanner", 566, 494, true, "40px Arial", "white", false, "12px Arial", "black"],
+
+    ["Plutos +", 565, 496.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["19malibu92", 565, 498, true, "40px Arial", "white", false, "12px Arial", "black"],
+
+    ["Mr. SmartGuy +", 566, 500, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Hollywood Undead", 566, 501.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+
+     ["Frank von Bach +", 566, 505, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Ash Ketchup", 566, 506.5, true, "40px Arial", "white", false, "12px Arial", "black"],
 ];
 
 // x, y, radius, map, color, width, filling, mini, minicolor, miniwidth, minifilling, mark
