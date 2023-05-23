@@ -45,41 +45,41 @@ let texte = [
 //    ["Argenzo", 471, 532, true, "20px Arial", "white", false, "12px Arial", "white"],
 //    ["Bla", 471, 532, true, "20px Arial", "white", false, "12px Arial", "white"]
 
-["Kuschelsupport +", 540, 457, true, "40px Arial", "white", false, "12px Arial", "black"],
-    ["Commander Bar3is", 540, 458.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+["Kuschelsupport +", 538, 457, true, "20px Arial", "white", false, "12px Arial", "black"],
+    ["Commander Bar3is", 538, 458, true, "20px Arial", "white", false, "12px Arial", "black"],
 
-    ["Damenfahrrad +", 548, 459, true, "40px Arial", "white", false, "12px Arial", "black"],
-    ["ladykiller", 548, 460.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Damenfahrrad +", 548, 460, true, "20px Arial", "white", false, "12px Arial", "black"],
+    ["ladykiller", 548, 461, true, "20px Arial", "white", false, "12px Arial", "black"],
 
-    ["Gringo +", 554, 462, true, "40px Arial", "white", false, "12px Arial", "black"],
-    ["Hakuna", 554, 463.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Gringo +", 549.5, 469.5, true, "20px Arial", "white", false, "12px Arial", "black"],
+    ["Hakuna", 549.5, 470.5, true, "20px Arial", "white", false, "12px Arial", "black"],
 
-    ["iiBeatz +", 558, 466, true, "40px Arial", "white", false, "12px Arial", "black"],
-    ["Seitz", 558, 467.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["iiBeatz +", 550.5, 477, true, "20px Arial", "white", false, "12px Arial", "black"],
+    ["Seitz", 550.5, 478, true, "20px Arial", "white", false, "12px Arial", "black"],
 
-    ["SeoTajii +", 557, 476.5, true, "40px Arial", "white", false, "12px Arial", "black"],
-    ["-P4L-", 557, 478, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["SeoTajii +", 558, 477, true, "20px Arial", "white", false, "12px Arial", "black"],
+    ["-P4L-", 558, 478, true, "20px Arial", "white", false, "12px Arial", "black"],
 
-    ["Chelonoidis +", 558, 482, true, "40px Arial", "white", false, "12px Arial", "black"],
-    ["Ice Bear", 558, 483.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Chelonoidis +", 556, 483.5, true, "20px Arial", "white", false, "12px Arial", "black"],
+    ["Ice Bear", 556, 484.5, true, "20px Arial", "white", false, "12px Arial", "black"],
 
-    ["bensuper +", 561, 485, true, "40px Arial", "white", false, "12px Arial", "black"],
-    ["Muten Roshi", 561, 486.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["bensuper +", 561, 485, true, "20px Arial", "white", false, "12px Arial", "black"],
+    ["Muten Roshi", 561, 486, true, "20px Arial", "white", false, "12px Arial", "black"],
 
-    ["Broccoli +", 563, 489, true, "40px Arial", "white", false, "12px Arial", "black"],
-    ["DarkDimi", 563, 490.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Broccoli +", 562, 489, true, "20px Arial", "white", false, "12px Arial", "black"],
+    ["DarkDimi", 562, 490, true, "20px Arial", "white", false, "12px Arial", "black"],
 
-    ["ListeGelenk +", 566, 492.5, true, "40px Arial", "white", false, "12px Arial", "black"],
-    ["Pfanner", 566, 494, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["ListeGelenk +", 566, 492.5, true, "20px Arial", "white", false, "12px Arial", "black"],
+    ["Pfanner", 566, 493.5, true, "20px Arial", "white", false, "12px Arial", "black"],
 
-    ["Plutos +", 565, 496.5, true, "40px Arial", "white", false, "12px Arial", "black"],
-    ["19malibu92", 565, 498, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Plutos +", 565, 496, true, "20px Arial", "white", false, "12px Arial", "black"],
+    ["19malibu92", 565, 497, true, "20px Arial", "white", false, "12px Arial", "black"],
 
-    ["Mr. SmartGuy +", 566, 500, true, "40px Arial", "white", false, "12px Arial", "black"],
-    ["Hollywood Undead", 566, 501.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+    ["Mr. SmartGuy +", 566, 501, true, "20px Arial", "white", false, "12px Arial", "black"],
+    ["Hollywood Undead", 566, 502, true, "20px Arial", "white", false, "12px Arial", "black"],
 
-     ["Frank von Bach +", 566, 505, true, "40px Arial", "white", false, "12px Arial", "black"],
-    ["Ash Ketchup", 566, 506.5, true, "40px Arial", "white", false, "12px Arial", "black"],
+     ["Frank von Bach +", 566, 505, true, "20px Arial", "white", false, "12px Arial", "black"],
+    ["Ash Ketchup", 566, 506, true, "20px Arial", "white", false, "12px Arial", "black"],
 ];
 
 // x, y, radius, map, color, width, filling, mini, minicolor, miniwidth, minifilling, mark
