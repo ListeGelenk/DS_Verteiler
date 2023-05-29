@@ -45,7 +45,7 @@ let linien = [
 let texte = [
 //    ["Argenzo", 471, 532, true, "20px Arial", "white", false, "12px Arial", "white"],
 //    ["Bla", 471, 532, true, "20px Arial", "white", false, "12px Arial", "white"]
-
+];
 
 // x, y, radius, map, color, width, filling, mini, minicolor, miniwidth, minifilling, mark
 // 461, 548, 3, true, "white", 3, "rgba(255, 255, 255, 0.5)", true, "white", 3, "rgba(255, 255, 255, 0.5)", true
