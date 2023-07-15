@@ -3,41 +3,7 @@ var playerNames = "Herrenloses Damenfahrrad; ladykiller140; iiBeaTz; Broccoli; D
 // x1, y1, x2, y2, map, color, px, mini, minicolor, minipx
 // 515, 554, 484, 554, true, "red", 5, true, "red", 3
 let linien = [
-    [514.90, 484.79, 519.60, 484.79, true, "white", 5, true, "white", 3],
-[509.90, 499.99, 514.80, 484.99, true, "white", 5, true, "white", 3],
-[509.99, 500.16, 513.89, 504.83, true, "white", 5, true, "white", 3],
-[513.99, 505.05, 524.67, 505.10, true, "white", 5, true, "white", 3],
-[524.94, 505.10, 524.94, 511.99, true, "white", 5, true, "white", 3],
-[524.98, 512.10, 618.62, 511.96, true, "white", 5, true, "white", 3],
-[540.02, 430.04, 519.79, 484.58, true, "white", 5, true, "white", 3],
-[525.34, 508.08, 615.57, 508.08, true, "white", 5, true, "white", 3],
-[535.88, 508.16, 535.88, 511.78, true, "white", 5, true, "white", 3],
-[547.03, 508.24, 547.03, 511.70, true, "white", 5, true, "white", 3],
-[558.03, 508.39, 558.03, 511.70, true, "white", 5, true, "white", 3],
-[568.96, 508.32, 568.96, 511.62, true, "white", 5, true, "white", 3],
-[580.03, 508.39, 580.03, 511.55, true, "white", 5, true, "white", 3],
-[590.88, 508.32, 590.88, 511.55, true, "white", 5, true, "white", 3],
-// [546.94, 468.14, 566.28, 430.36, true, "white", 5, true, "white", 3],
-[519.72, 484.91, 524.83, 484.91, true, "white", 5, true, "white", 3],
-[540.06, 429.91, 544.39, 429.91, true, "white", 5, true, "white", 3],
-[544.50, 430.02, 524.50, 484.69, true, "white", 5, true, "white", 3],
-[523.94, 474.80, 527.72, 474.80, true, "white", 5, true, "white", 3],
-[527.39, 464.91, 531.39, 464.91, true, "white", 5, true, "white", 3],
-[530.94, 454.69, 534.94, 454.69, true, "white", 5, true, "white", 3],
-[534.72, 444.80, 538.72, 444.80, true, "white", 5, true, "white", 3],
-[538.39, 435.02, 542.39, 435.02, true, "white", 5, true, "white", 3],
-// [542.28, 462.69, 553.83, 430.36, true, "white", 5, true, "white", 3],
-[602.07, 508.19, 602.07, 511.59, true, "white", 5, true, "white", 3],
-// [554.66, 487.08, 614.77, 442.19, true, "white", 5, true, "white", 3],
-// [559.77, 493.41, 614.55, 465.52, true, "white", 5, true, "white", 3],
-// [560.10, 496.52, 614.77, 476.63, true, "white", 5, true, "white", 3],
-// [560.10, 499.74, 614.55, 486.19, true, "white", 5, true, "white", 3],
-// [559.99, 503.41, 614.55, 498.30, true, "white", 5, true, "white", 3],
-// [555.06, 474.78, 598.28, 430.28, true, "white", 5, true, "white", 3],
-// [555.13, 481.64, 614.56, 432.35, true, "white", 5, true, "white", 3],
-// [555.06, 486.78, 614.78, 442.21, true, "white", 5, true, "white", 3],
-// [614.82, 454.90, 555.07, 491.40, true, "white", 5, true, "white", 3],
-// [551.76, 470.05, 585.39, 430.32, true, "white", 5, true, "white", 3],
+
 ];
 
 // text, x, y, map, font, color, mini, minifont, minicolor
