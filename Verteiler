@@ -5,6 +5,12 @@ var playerNames = "good punisher; N0bbyNic; derFrust?; Aletheias Leuchtfeuer; Br
 let linien = [
 
 [409, 541, 459, 541, true, "red", 5, true, "red", 3]
+[558,493, 601,482, true, "red", 3, true, "red", 1],
+[558,493, 613,507, true, "red", 3, true, "red", 1],
+[460.01, 541.16, 408.92, 541.16, true, "white", 5, true, "white", 3],
+[540.04, 499.98, 540.04, 529.85, true, "white", 5, true, "white", 3],
+[589.95, 604.92, 589.95, 557.55, true, "white", 5, true, "white", 3],
+[589.95, 557.55, 540.07, 530.05, true, "white", 5, true, "white", 3],
 
 ];
 
